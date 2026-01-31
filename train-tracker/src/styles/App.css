@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap'); 
 
 * { /* Applies this font to all text */
   font-family: 'Happy Monkey', system-ui, -apple-system, sans-serif !important;
@@ -29,7 +29,7 @@
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #97ccf0;
+  background-color: #353935; /* Changed color from that ugly blue to black */
   transition: width 0.5s;
   display: flex;
   flex-direction: column;
